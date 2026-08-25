@@ -1,7 +1,7 @@
-const CACHE_NAME = "inergo-cache-v1";
+const CACHE_NAME = "inergo-cache-v3";
 const APP_SHELL = [
   "./",
-  "./index.html",
+  "./inergo.html",
   "./manifest.json",
   "./icon-192.png",
   "./icon-512.png",

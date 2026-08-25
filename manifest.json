@@ -2,7 +2,7 @@
   "name": "INERGO — Te toca.",
   "short_name": "INERGO",
   "description": "INERGO propone un reto. Tú lo grabas.",
-  "start_url": "./index.html",
+  "start_url": "./inergo.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
