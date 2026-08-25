@@ -1,8 +1,8 @@
 {
-  "name": "ERGO — Quemando los barcos.",
-  "short_name": "ERGO",
-  "description": "ERGO propone un reto. Tú lo grabas.",
-  "start_url": "./ergo.html",
+  "name": "INERGO — Te toca.",
+  "short_name": "INERGO",
+  "description": "INERGO propone un reto. Tú lo grabas.",
+  "start_url": "./inergo.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",

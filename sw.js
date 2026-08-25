@@ -1,7 +1,7 @@
-const CACHE_NAME = "ergo-cache-v1";
+const CACHE_NAME = "inergo-cache-v3";
 const APP_SHELL = [
   "./",
-  "./ergo.html",
+  "./inergo.html",
   "./manifest.json",
   "./icon-192.png",
   "./icon-512.png",
